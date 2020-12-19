@@ -33,3 +33,6 @@ _Hệ thống phát bài cho những người chơi_
 - play {index} - Đánh bài với index của thẻ (Yêu cầu đã đến lượt đánh) VD: !play 0 1 2
 
 - skip    - Bỏ qua lượt đánh.
+
+# Thank Yous
+- [johnnguyen3196](https://github.com/johnnguyen3196/) - Logic của bài tiến lên.
