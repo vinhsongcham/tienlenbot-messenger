@@ -8,8 +8,8 @@ var rl = readline.createInterface({
 });
 
 const obj = {
-  email: "EMAIL-HERE",
-  password: "PASSWORD-HERE",
+  email: "thanhvinhtqt2019@gmail.com",
+  password: "VINHRATNGU",
 };
 
 login(
